@@ -17,7 +17,7 @@ require (
 	github.com/go-test/deep v1.0.5 // indirect
 	github.com/google/martian v2.1.0+incompatible
 	github.com/gophercloud/gophercloud v0.9.0 // indirect
-	github.com/jessevdk/go-flags v1.4.0
+	github.com/jessevdk/go-flags v1.5.0
 	github.com/keptn/go-utils v0.8.2
 	github.com/keptn/kubernetes-utils v0.8.1
 	github.com/mholt/archiver v3.1.1+incompatible
